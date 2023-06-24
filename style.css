@@ -268,8 +268,6 @@ input[type="search"]:focus {
 
 .content-foo{
     text-align: justify;
-
-    
 }
 
 .content-foo h4{
@@ -280,8 +278,7 @@ input[type="search"]:focus {
 }
 
 .content-foo p{
-    color: black;
-    
+    color: black; 
 }
 
 .titulo-final{
@@ -290,9 +287,16 @@ input[type="search"]:focus {
     margin: 20px 0 0 0;
     color: #9e9797;
 }
+
 .footer-solcials-link{
     width: 50px;
     height: 50px;
-  
+}
 
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
 }
